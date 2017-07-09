@@ -472,10 +472,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/gratis-download-8-redenen-1400x1811.jpg",
-              "link": "",
+              "link": "http://www.kunstigart.nl/2243-2/",
               "alt": "",
               "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1065,10 +1065,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/gratis-reis-doorgrijs-1-1400x2234.jpg",
-              "link": "",
+              "link": "http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/",
               "alt": "",
               "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1803,10 +1803,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/gratis-2-eboeks-1-1400x787.jpg",
-              "link": "",
+              "link": "http://www.kunstigart.nl/aanmelden-voor-downloads/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2622,7 +2622,7 @@
             }
           },
           "title": "Speciale zomeractie!",
-          "text": "Zoals je hebt kunnen lezen, werken wij met een strippenkaart. Je kunt dan 9 keer komen schilderen en de kaart is een hele jaar geldig. Jij bepaalt hoe regelmatig je wilt komen schilderen. Ideaal voor wie in wisselende diensten zit en zeker voor ondernemers die de ene week het heel druk hebben en dan de volgende week meer ruimte hebben voor zichzelf.<br><br>Gun jezelf de kans om echt te ervaren wat intuïtief schilderen voor je &nbsp;kan doen.&nbsp;<br><br><b><i>Wees wel gewaarschuwd, verslavingsgevaar!</i></b><br>Heb je eenmaal de intuïtief schilder virus te pakken! <br>Dan ben je verkocht en kom je er nooit meer vanaf. <br>Al jaren komen mensen wekelijks schilderen om hun \"shot\" te krijgen!&nbsp;<br><br>",
+          "text": "Zoals je hebt kunnen lezen, werken wij met een strippenkaart. Je kunt dan 9 keer komen schilderen en de kaart is een héél jaar geldig. Jij bepaalt hoe regelmatig je wilt komen schilderen. Ideaal voor wie in wisselende diensten zit en zeker voor ondernemers die de ene week het heel druk hebben en dan de volgende week meer ruimte hebben voor zichzelf.<br><br>Gun jezelf de kans om echt te ervaren wat intuïtief schilderen voor je &nbsp;kan doen.&nbsp;<br><br><b><i>Wees wel gewaarschuwd, verslavingsgevaar!</i></b><br>Heb je eenmaal de intuïtief schilder virus te pakken! <br>Dan ben je verkocht en kom je er nooit meer vanaf. <br>Al jaren komen mensen wekelijks schilderen om hun \"shot\" te krijgen!&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.kunstigart.nl/strippenkaart/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Strippenkaart actie</a>"
         },
         {
